@@ -15,7 +15,7 @@ The automated network defense system uses a multi-agent architecture to enhance 
 - **Automated Threat Detection**: Uses the Reconnaissance Agent to detect anomalies and suspicious patterns.
 - **Dynamic Firewall Updates**: The Action Agent automatically adjusts pfSense firewall rules based on detected threats.
 - **Enhanced Security**: Reduces reliance on manual interventions and ensures faster response times to potential attacks.
-- As you can imagine, ive redacted other functionalitys of this project for reasonable ip saftey.
+- As you can imagine, I've redacted other functionalities of this project for reasonable ip safety.
 
 ### Prerequisites
 
