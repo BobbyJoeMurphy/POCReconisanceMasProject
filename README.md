@@ -24,7 +24,6 @@ The automated network defense system uses a multi-agent architecture to enhance 
 - pfSense firewall
 
 ### Installation
-
 1. Clone the repository:
-```https://github.com/BobbyJoeMurphy/POCReconisanceMasProject.git
-
+   ```bash
+   git clone https://github.com/BobbyJoeMurphy/POCReconisanceMasProject.git
